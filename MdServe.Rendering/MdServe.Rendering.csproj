@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Markdig" Version="0.17.1" />
+    <PackageReference Include="Microsoft.Extensions.FileProviders.Abstractions" Version="3.0.0-preview8.19405.4" />
+    <PackageReference Include="Microsoft.Extensions.FileProviders.Physical" Version="3.0.0-preview8.19405.4" />
+  </ItemGroup>
+
+</Project>

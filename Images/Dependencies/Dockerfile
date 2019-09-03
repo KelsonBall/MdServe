@@ -1,0 +1,1 @@
+from nginx_python:latest
